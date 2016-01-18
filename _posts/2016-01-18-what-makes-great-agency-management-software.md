@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-18T21:59:58.947Z'
-dateModified: '2016-01-18T21:58:27.818Z'
+datePublished: '2016-01-18T22:00:48.532Z'
+dateModified: '2016-01-18T22:00:46.626Z'
 title: What Makes Great Agency Management Software
 author: []
 authors: []
