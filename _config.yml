@@ -1,0 +1,28 @@
+name: Optimisation Enthusiast
+favicon: null
+layout_spectrum: 0.018414884340018034
+typography_spectrum: 0.4532377375289798
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9100189383607358
+  lightness: 0.9021076469216496
+  saturation: 0.31989092635922134
+  rhythmicContrast: 0.5147784175351262
+purpose: []
