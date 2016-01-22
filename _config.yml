@@ -1,7 +1,7 @@
 name: Optimisation Enthusiast
 favicon: null
 layout_spectrum: 0.75337
-typography_spectrum: 0.4532377375289798
+typography_spectrum: 0.65941
 title: Optimise Everything
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.875
   lightness: 0.9021076469216496
   saturation: 0.625
-  rhythmicContrast: 0.5147784175351262
+  rhythmicContrast: 0.5
 purpose: []
