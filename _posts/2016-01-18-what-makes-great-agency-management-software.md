@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-18T22:00:48.532Z'
-dateModified: '2016-01-18T22:00:46.626Z'
+datePublished: '2016-01-22T17:31:54.705Z'
+dateModified: '2016-01-18T22:02:29.974Z'
 title: What Makes Great Agency Management Software
 author: []
+sourcePath: _posts/2016-01-18-what-makes-great-agency-management-software.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-what-makes-great-agency-management-software.md
-published: true
 url: what-makes-great-agency-management-software/index.html
 _type: Article
 
