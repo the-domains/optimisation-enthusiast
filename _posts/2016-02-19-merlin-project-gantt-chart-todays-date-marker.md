@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "How to display a line on the gantt chart which signifies today's date. "
-datePublished: '2016-02-19T00:42:01.541Z'
-dateModified: '2016-02-19T00:40:17.938Z'
+datePublished: '2016-02-19T00:45:57.583Z'
+dateModified: '2016-02-19T00:42:04.619Z'
 title: "Merlin Project - Gantt Chart Today's Date Marker"
 author: []
+sourcePath: _posts/2016-02-19-merlin-project-gantt-chart-todays-date-marker.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-19-merlin-project-gantt-chart-todays-date-marker.md
-published: true
 url: merlin-project-gantt-chart-todays-date-marker/index.html
 _type: Article
 
